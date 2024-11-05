@@ -1,0 +1,30 @@
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\obj\Debug\net8.0\Output og Input.GeneratedMSBuildEditorConfig.editorconfig
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\obj\Debug\net8.0\Output og Input.AssemblyInfoInputs.cache
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\obj\Debug\net8.0\Output og Input.AssemblyInfo.cs
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\obj\Debug\net8.0\Output og Input.csproj.CoreCompileInputs.cache
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\obj\Debug\net8.0\Output og Input.sourcelink.json
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\bin\Debug\net8.0\Output og Input.exe
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\bin\Debug\net8.0\Output og Input.deps.json
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\bin\Debug\net8.0\Output og Input.runtimeconfig.json
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\bin\Debug\net8.0\Output og Input.dll
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\bin\Debug\net8.0\Output og Input.pdb
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\obj\Debug\net8.0\Output og Input.dll
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\obj\Debug\net8.0\refint\Output og Input.dll
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\obj\Debug\net8.0\Output og Input.pdb
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\obj\Debug\net8.0\Output og Input.genruntimeconfig.cache
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input\obj\Debug\net8.0\ref\Output og Input.dll
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\bin\Debug\net8.0\Output og Input.exe
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\bin\Debug\net8.0\Output og Input.deps.json
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\bin\Debug\net8.0\Output og Input.runtimeconfig.json
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\bin\Debug\net8.0\Output og Input.dll
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\bin\Debug\net8.0\Output og Input.pdb
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\obj\Debug\net8.0\Output og Input.GeneratedMSBuildEditorConfig.editorconfig
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\obj\Debug\net8.0\Output og Input.AssemblyInfoInputs.cache
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\obj\Debug\net8.0\Output og Input.AssemblyInfo.cs
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\obj\Debug\net8.0\Output og Input.csproj.CoreCompileInputs.cache
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\obj\Debug\net8.0\Output og Input.sourcelink.json
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\obj\Debug\net8.0\Output og Input.dll
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\obj\Debug\net8.0\refint\Output og Input.dll
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\obj\Debug\net8.0\Output og Input.pdb
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\obj\Debug\net8.0\Output og Input.genruntimeconfig.cache
+E:\SKOLE\GitHub Repository\Output-og-Input\Output og Input Aflevering\obj\Debug\net8.0\ref\Output og Input.dll
